@@ -13,6 +13,7 @@
 		972470B420A27F0000050DF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 972470B220A27F0000050DF7 /* Main.storyboard */; };
 		972470B620A27F0100050DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 972470B520A27F0100050DF7 /* Assets.xcassets */; };
 		972470B920A27F0100050DF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 972470B720A27F0100050DF7 /* LaunchScreen.storyboard */; };
+		BADA561B212E482E0060B616 /* CurrentWeatherViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADA561A212E482E0060B616 /* CurrentWeatherViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		972470B520A27F0100050DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		972470B820A27F0100050DF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		972470BA20A27F0100050DF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BADA561A212E482E0060B616 /* CurrentWeatherViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				972470AE20A27F0000050DF7 /* AppDelegate.swift */,
 				972470B020A27F0000050DF7 /* ViewController.swift */,
 				2C5E5075212CDB8D003A3F57 /* CurrentWeather.swift */,
+				BADA561A212E482E0060B616 /* CurrentWeatherViewModel.swift */,
 				972470B220A27F0000050DF7 /* Main.storyboard */,
 				972470B520A27F0100050DF7 /* Assets.xcassets */,
 				972470B720A27F0100050DF7 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				972470B120A27F0000050DF7 /* ViewController.swift in Sources */,
 				2C5E5076212CDB8D003A3F57 /* CurrentWeather.swift in Sources */,
 				972470AF20A27F0000050DF7 /* AppDelegate.swift in Sources */,
+				BADA561B212E482E0060B616 /* CurrentWeatherViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
