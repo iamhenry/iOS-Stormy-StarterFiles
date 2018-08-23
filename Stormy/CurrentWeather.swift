@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 //Struct as data model
-// Model the data from the Dark Sky AP docs
+// Model the data from the Dark Sky API docs
 struct CurrentWeather {
     let temperature: Double
     let humidity: Double
